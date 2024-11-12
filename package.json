@@ -1,8 +1,8 @@
 {
   "name": "template-nest-api",
   "version": "0.0.1",
-  "description": "Template for a management API built with NestJS",
-  "author": "Elliott Griffiths",
+  "description": "",
+  "author": "",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
