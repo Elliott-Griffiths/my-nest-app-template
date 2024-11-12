@@ -16,7 +16,7 @@ export class AppService {
   getApiInfo(): ApiInfo {
     try {
       return {
-        name: 'NestJS Template Management API',
+        name: 'Project Nexus API',
         version: this.apiVersion,
         environment: process.env.NODE_ENV || 'development',
         timestamp: new Date().toISOString(),

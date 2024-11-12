@@ -1,8 +1,8 @@
 {
-  "name": "my-nest-app-template",
+  "name": "project-nexus-backend",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Project Nexus API Server",
+  "author": "Elliott Griffiths",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
