@@ -1,7 +1,7 @@
 {
-  "name": "project-nexus-backend",
+  "name": "template-nest-api",
   "version": "0.0.1",
-  "description": "Project Nexus API Server",
+  "description": "Template for a management API built with NestJS",
   "author": "Elliott Griffiths",
   "private": true,
   "license": "UNLICENSED",

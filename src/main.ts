@@ -8,8 +8,8 @@ export async function bootstrap() {
 
   // Swagger setup
   const config = new DocumentBuilder()
-    .setTitle('Project Nexus API')
-    .setDescription('API for Project Nexus')
+    .setTitle('Template Nest API')
+    .setDescription('Template for a management API built with NestJS')
     .setVersion('1.0')
     .build();
   const document = SwaggerModule.createDocument(app, config);
