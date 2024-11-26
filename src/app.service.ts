@@ -3,7 +3,7 @@ import {
   ApiInfo,
   HealthCheck,
   ApiDocumentation,
-} from './interfaces/api.interface';
+} from './interface/api.interface';
 
 @Injectable()
 export class AppService {

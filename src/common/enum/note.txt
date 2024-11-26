@@ -1,0 +1,6 @@
+Common Enums
+- Status codes
+- Global roles
+- Common flags or states
+- Sort directions
+- Time periods

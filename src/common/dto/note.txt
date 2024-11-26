@@ -1,0 +1,5 @@
+Common DTOs
+- Pagination, sorting, and filtering DTOs
+- API response structures
+- Error response structures
+- Basic CRUD operation DTOs

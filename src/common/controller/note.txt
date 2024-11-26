@@ -1,0 +1,5 @@
+Common Controllers
+- Health checks
+- Status endpoints
+- Basic metrics
+- Documentation endpoints

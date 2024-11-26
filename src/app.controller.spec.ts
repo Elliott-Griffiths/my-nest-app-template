@@ -2,7 +2,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { Logger } from '@nestjs/common';
-import { HealthCheck } from './interfaces/api.interface';
+import { HealthCheck } from './interface/api.interface';
 
 describe('AppController', () => {
   let controller: AppController;

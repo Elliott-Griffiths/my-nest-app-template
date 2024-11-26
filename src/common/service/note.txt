@@ -1,0 +1,7 @@
+Common Services
+- Logging
+- Caching
+- Email sending
+- File handling
+- Authentication
+- Configuration
