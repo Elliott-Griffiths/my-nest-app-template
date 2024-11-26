@@ -9,7 +9,7 @@ export async function bootstrap() {
 
   // Swagger setup
   const config = new DocumentBuilder()
-    .setTitle('NestJS Template Management API')
+    .setTitle('Template Nest API')
     .setDescription('Template for a management API built with NestJS')
     .setVersion('1.0')
     .build();

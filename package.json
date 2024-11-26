@@ -1,7 +1,7 @@
 {
-  "name": "my-nest-app-template",
+  "name": "template-nest-api",
   "version": "0.0.1",
-  "description": "A simple NestJS API template",
+  "description": "Template for a management API built with NestJS",
   "author": "Elliott Griffiths",
   "private": true,
   "license": "UNLICENSED",
